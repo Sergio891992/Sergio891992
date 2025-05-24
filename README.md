@@ -9,7 +9,8 @@ Soy un profesional en transición hacia el campo de la Ciencia de Datos, con exp
 - 🌱 Aprendiendo: Web development.
 - 📚 Lo que voy a aprender: Fundamentos de sistemas computacionales.
 - 💻 Completé el bootcamp de Ciencia de Datos en [TripleTen](https://tripleten.mx/), donde desarrollé proyectos aplicados de análisis, modelado, NLP y más.
-- 📊 Construyendo mi portafolio de proyectos en este repositorio: [Proyectos TripleTen](https://github.com/Sergio891992/Proyectos_tripleten)
+- 📊 Construyendo mi portafolio de proyectos en este repositorio: [Proyectos TripleTen](https://github.com/Sergio891992/Proyectos-Tripleten)
+- 🏫 Lo que hice: Me desempeñé como maestro de idiomas y literatura por aproximdamente 10 años. 
 
 ## 🧰 Herramientas y tecnologías
 
@@ -20,15 +21,33 @@ Soy un profesional en transición hacia el campo de la Ciencia de Datos, con exp
 
 ## 📌 Proyectos destacados
 
-- 🔍 **Análisis exploratorio de datos** – Identificación de patrones y outliers en datos de salud pública.
-- 🧠 **Modelos predictivos** – Regresiones, árboles de decisión, y redes neuronales.
-- 📈 **Series de tiempo y forecasting** – ARIMA y Prophet.
-- 📷 **Clasificación de imágenes** – CNNs entrenadas con Keras/TensorFlow.
-- 📚 **Procesamiento de texto** – Tokenización, análisis de sentimientos, modelado de temas.
+### 1. 📈 [Análisis Predictivo Avanzado](01_Analisis_Predictivo_Avanzado.ipynb)
+Análisis exploratorio exhaustivo, visualizaciones detalladas y modelado predictivo con evaluación robusta.
 
-> Puedes ver estos proyectos en mi repositorio 👉 [Proyectos TripleTen](https://github.com/Sergio891992/Proyectos_tripleten)
+---
+
+### 2. 🤖 [Optimización de Modelos Supervisados](02_Optimizacion_Modelos_Supervisados.ipynb)
+Clasificación con múltiples modelos, validación cruzada y comparación detallada de métricas de rendimiento.
+
+---
+
+### 3. 🔍 [Clasificación Binaria Interpretada](03_Clasificacion_Binaria_Interpretada.ipynb)
+Tarea de clasificación binaria con visualización de resultados, análisis de errores y narrativa clara del proceso.
+
+---
+
+### 4. 📉 [Regresión Lineal con Evaluación](04_Regresion_Lineal_Evaluacion.ipynb)
+Regresión lineal con análisis de desempeño, evaluación de errores y reflexiones sobre las predicciones.
+
+---
+
+### 5. 🧠 [Clasificación de Imágenes con CNN](05_CNN_Clasificacion_Imagenes.ipynb)
+Red neuronal convolucional entrenada sobre imágenes, con aumento de datos, evaluación y análisis de resultados.
+
+---
 
 ## 🤝 Conectemos
 
-- 📧 Email: sergiocortesr92@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/sergiocortesr](https://linkedin.com/in/sergiocortesr)
+- 📧 Email: sergio891992@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/sergiocortesr](https://www.linkedin.com/in/sergio-alberto-cortés-ronquillo-45b7726b)
+

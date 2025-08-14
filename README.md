@@ -6,8 +6,8 @@ Soy un profesional en transición hacia el campo de la Ciencia de Datos, con exp
 
 ## 🚀 Lo que estoy haciendo ahora
 
-- 🌱 Aprendiendo: Web development.
-- 📚 Lo que voy a aprender: Fundamentos de sistemas computacionales.
+- 🌱 Aprendiendo: Ingeniería en Sistemas Computacionales
+- 📚 Lo que voy a aprender: Japonés.
 - 💻 Completé el bootcamp de Ciencia de Datos en [TripleTen](https://tripleten.mx/), donde desarrollé proyectos aplicados de análisis, modelado, NLP y más.
 - 📊 Construyendo mi portafolio de proyectos en este repositorio: [Proyectos TripleTen](https://github.com/Sergio891992/Proyectos-Tripleten)
 - 🏫 Lo que hice: Me desempeñé como maestro de idiomas y literatura por aproximdamente 10 años. 
